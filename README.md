@@ -1,3 +1,5 @@
+![](Hero.png)
+
 # mbus-graphql
 
 An Apollo server for accessing University of Michigan bus data through GraphQL.
