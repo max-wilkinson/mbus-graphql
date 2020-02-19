@@ -29,7 +29,9 @@ export const typeDefs = gql`
 
   type Query {
     routes: [Route]
+    activeRoutes: [Route]
     stops: [Stop]
+    activeStops: [Stop]
     etas(stop: Int): [Eta]
   }
 `;
